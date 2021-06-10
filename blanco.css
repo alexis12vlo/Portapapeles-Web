@@ -3,7 +3,7 @@
 	padding: 0;
 }
 .hader{
-background-image: url(bg-header-desktop.png);
+background-image: url(img/bg-header-desktop.png);
 background-size: cover;
 display: flex;
 flex-direction: column;
