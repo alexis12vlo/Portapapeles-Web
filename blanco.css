@@ -190,3 +190,101 @@ margin-left: 100px;
 .footerim{
 	transform: scale(0.7);
 }
+@media only screen and (max-width: 800px){
+	.botoneshader{
+		display: flex;
+		justify-content: center;
+		flex-direction: column;d
+	
+	}
+	.boton{
+		margin-bottom: 25px;
+	}
+	
+	.container1{
+		margin-bottom: -100px ;
+	}
+	.container2{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+	}
+	.container2texh3{
+		margin: 0;
+		display: flex;
+		justify-content: center;
+		margin-bottom: 25px;
+	}
+	.container2texp{
+		margin-left: 150px;
+		display: block;
+		text-align: center;
+	
+	}
+	.container2im{
+		display: flex;
+		margin: 0px;
+		justify-content:.center;
+		transform: scale(0.4);
+	}
+	.container4{
+		display: flex;
+		margin: 0px;
+		justify-content:.center;
+		transform: scale(0.4);
+		margin-top: -150px;
+		margin-bottom: -150px;
+	}
+	.container5{
+		display: flex;
+		flex-direction: column;
+
+	}
+	.container5h3 , p{
+		margin: 0;
+		margin-bottom: 25px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+
+	}
+	.container5icon{
+		display: flex;
+		flex-direction: column;
+	}
+	.container5marcas{
+		display: flex;
+		flex-direction: column;
+	}
+	.container6botones{
+		display: flex;
+		white-space: nowrap;
+		flex-direction: column;
+		
+		
+	}
+
+	.footer{
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 120px;
+		
+		
+	}
+	.footericon{
+		margin: 0px;
+		display: flex;
+		margin-right: 45gpx;
+
+
+		
+	}
+	.footericons{
+		margin-left: 45px;
+
+	}
+	.container6boton{
+		margin-bottom: 25px;
+	}
+}
